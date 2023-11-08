@@ -1,4 +1,4 @@
-# Web_Technology
+# Practice
 TE sppu practicals
 # Youtube link-
     https://youtu.be/97X9vTd-a-w?si=RLSmQvH3j6dOScud
